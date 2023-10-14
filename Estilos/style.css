@@ -40,7 +40,7 @@ header{
     color: white;
     font-family: var(--fonte-Destaque);
     font-size: 3em;
-    margin-bottom: 20px;
+    padding: 50px;
     box-shadow: 2px,2px,0px black;
 }
 header p{
